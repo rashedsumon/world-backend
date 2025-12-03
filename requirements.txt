@@ -1,8 +1,6 @@
-# requirements.txt
-python
 streamlit
 fastapi
-uvicorn
 pydantic
-kagglehub
-python-dotenv
+uvicorn
+numpy
+pandas
